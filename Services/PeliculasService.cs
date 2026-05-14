@@ -9,7 +9,7 @@ namespace IntroduccionCsharp.Services
 {
     public class PeliculasService
     {
-        public List<Pelicula> ObtenerPelicula()
+        public List<Pelicula> ObtenerPelicula() 
         {
             var pelicula1 = new Pelicula()
             {
